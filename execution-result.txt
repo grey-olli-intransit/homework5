@@ -1,0 +1,34 @@
+----> 18:18:11 Tue May 25 olli@dell15 ~/bin/cpp/geekbrains/homework5/build
+$ ./hw5 
+Before:
+1 1 0 0 1 0 1 1 0 0 
+After:
+0 0 1 1 0 1 0 0 1 1 
+Another inversion(2):
+1 1 0 0 1 0 1 1 0 0 
+Another inversion (3):
+0 0 1 1 0 1 0 0 1 1 
+Required values:
+1 4 7 10 13 16 19 22
+Filled values:
+1 4 7 10 13 16 19 22 
+Требуемое: checkBalance([1, 1, 1, || 2, 1]) → true
+Мой код на этих данных даёт: true
+Требуемое: checkBalance ([2, 1, 1, 2, 1]) → false
+Мой код на этих данных даёт: false
+Требуемое: checkBalance ([10, || 1, 2, 3, 4]) → true 
+Мой код на этих данных даёт: true
+0 1 2 3 4 
+fptr_array_shift(test_array,5,-2);
+2 3 4 0 1 
+print_inversion(3,1,0,1);
+0 1 0 
+Вариант с предыдущего дз уже с двумя диагоналями:
+1 0 0 0 0 1 
+0 1 0 0 1 0 
+0 0 1 1 0 0 
+0 0 1 1 0 0 
+0 1 0 0 1 0 
+1 0 0 0 0 1 
+----> 18:18:12 Tue May 25 olli@dell15 ~/bin/cpp/geekbrains/homework5/build
+$ 
